@@ -1,0 +1,1 @@
+# hungchannelsbot-banshare-encrypt
