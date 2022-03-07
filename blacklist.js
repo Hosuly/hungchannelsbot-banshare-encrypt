@@ -1,0 +1,4 @@
+var _0x24b7=["\x6D\x6F\x6E\x67\x6F\x6F\x73\x65","\x65\x78\x70\x6F\x72\x74\x73","\x62\x6C\x61\x63\x6B\x6C\x69\x73\x74","\x6D\x6F\x64\x65\x6C"];
+const mongoose=require(_0x24b7[0]);
+let Schema= new mongoose.Schema({id:String});
+module[_0x24b7[1]]= mongoose[_0x24b7[3]](_0x24b7[2],Schema)
